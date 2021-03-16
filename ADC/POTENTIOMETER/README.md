@@ -1,1 +1,1 @@
-#How to Read Potentiometer Voltage and Angle using ADC
+# How to Read Potentiometer Voltage and Angle using ADC
